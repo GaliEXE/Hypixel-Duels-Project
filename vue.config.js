@@ -3,3 +3,4 @@ module.exports = {
     ? '/Minecraft-wiki-project/'
     : '/'
 }
+gem install travis && travis --login
