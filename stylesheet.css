@@ -5,6 +5,10 @@ body{
 	background-color: #0c1445;
 	color: #FFAA00;
 }
+
+a{
+	color: red;
+}
 	
 .topnav{
   background-color: #333;
